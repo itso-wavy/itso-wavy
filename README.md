@@ -1,10 +1,66 @@
-- 👋 Hi, I’m @itso-wavy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-itso-wavy/itso-wavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3500&pause=3000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&height=150&lines=hello%2C+i'm+wavy+%F0%9F%8C%8A)](https://git.io/typing-svg)
+
+**✶ ᴄᴏɴᴛᴀᴄᴛ ✶**
+
+[![gmail](https://shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:you.meet.vvavy@gmail.com)
+[![tistory](https://shields.io/badge/tistory-black?style=for-the-badge&logo=tistory)](https://itsowavy.tistory.com/455)
+[![discord](https://shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discordapp.com/users/itso_wavy) 
+
+<br>
+<br>
+
+**✶ ᴛᴇᴄᴋ sᴛᴀᴄᴋ & ᴛᴏᴏʟs ✶**
+
+<!-- ![typescript](https://shields.io/badge/typescript-black?style=for-the-badge&logo=typescript) -->
+![javascript](https://shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![scss](https://shields.io/badge/scss-black?style=for-the-badge&logo=sass)
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
+
+![html5](https://img.shields.io/badge/html-000000?&logo=html5)
+![css3](https://img.shields.io/badge/css-000000?&logo=css3)
+![redux](https://img.shields.io/badge/redux-000000?&logo=redux)
+
+<!-- ![javascript](https://img.shields.io/badge/javascript-000000?&logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-000000?&logo=typescript) -->
+
+<!-- 
+_⋆ ʙᴀᴄᴋᴇɴᴅ_
+
+![nodejs](https://img.shields.io/badge/node.js-000000?&logo=node.js)
+![express](https://img.shields.io/badge/express-000000?&logo=express)
+![firebase](https://shields.io/badge/firebase-black?&logo=firebase)
+![mongodb](https://shields.io/badge/mongoDB-000000?&logo=mongodb)  -->
+
+_⋆ sᴛʏʟɪɴɢ_
+
+![styled-components](https://shields.io/badge/styled-components-000000?&logo=styledcomponents)
+![tailwindcss](https://shields.io/badge/tailwindcss-black?&logo=tailwindcss)
+![bootstrap](https://shields.io/badge/bootstrap-000000?&logo=bootstrap)
+
+_⋆ ᴅᴇsɪɢɴ_
+
+![figma](https://shields.io/badge/figma-black?&logo=figma)
+![photoshop](https://shields.io/badge/photoshop-000000?&logo=photoshop)
+
+_⋆ ᴛᴏᴏʟs_
+
+![notion](https://shields.io/badge/notion-black?&logo=notion)
+![github](https://shields.io/badge/github-000000?&logo=github)
+![discord](https://img.shields.io/badge/discord-000000?&logo=discord)
+![trello](https://shields.io/badge/trello-000000?&logo=trello)
+
+<br>
+<br>
+
+
+-ˋˏ✄┈┈┈┈┈┈┈┈
+
+<!-- 
+  <a href="https://github.com/itso-wavy"> 
+    <img alt="wavy_ github stats" width="30.5%" src="https://github-readme-stats.vercel.app/api?username=itso-wavy" />
+    <img alt="wavy_ top langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itso-wavy&layout=compact" />
+  </a>
+-->
+</div>
